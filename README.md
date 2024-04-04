@@ -2,6 +2,12 @@
 
 Welcome to the D3.js Basic Usages and Demos repository! This repository is dedicated to providing simple and practical examples of using D3.js for data visualization.
 
+# How to Run Project Demos
+Clone the repository to your local machine.
+Navigate to the project directory in your terminal.
+Run `npm install` to install the necessary dependencies.
+Run `npm run dev` to start the development server and view the demos in your browser.
+
 ## About
 
 D3.js (Data-Driven Documents) is a powerful JavaScript library for creating dynamic and interactive data visualizations in web browsers. This repository aims to help beginners understand the fundamental concepts of D3.js and demonstrate its basic usages through clear and concise examples.
